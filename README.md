@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Angular JS**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Java, PHP**
+- 💬 Ask me about **HTML, CSS, JS, Java, PHP**
 
 - 📫 How to reach me **hmze.ahmd.17@gmail.com**
 
