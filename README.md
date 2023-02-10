@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **React Native,**
+- 🌱 I’m currently learning **React Native, Angular JS**
 
-- 💬 Ask me about **Java, PHP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Java, PHP**
 
 - 📫 How to reach me **hmze.ahmd.17@gmail.com**
 
