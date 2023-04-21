@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Java, PHP**
 
-- 📫 How to reach me **hmze.ahmd.17@gmail.com**
+- 📫 How to reach me **hmze.developer@gmail.com**
 
 - 📄 Know about my experiences [https://hmzeahmd.github.io/](https://hmzeahmd.github.io/)
 
