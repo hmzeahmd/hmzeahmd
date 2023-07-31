@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/https://hmzeahmd.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://hmzeahmd.github.io/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamse-hussein-b9b184141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamse-hussein-b9b184141/" height="30" width="40" /></a>
-<a href="https://dribbble.com/hmzedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hmzedev" height="30" width="40" /></a>
+<a href="https://dribbble.com/hmzeahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hmzedev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codeskintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeskintech" height="30" width="40" /></a>
 <a href="https://discord.gg/hamse hussein#6901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hamse hussein#6901" height="30" width="40" /></a>
 </p>
