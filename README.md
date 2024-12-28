@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzeahmd&label=Profile%20views&color=0e75b6&style=flat" alt="hmzeahmd" /> </p>
 
-- 🔭 I’m currently working on [hmzeahmd](hmzeahmd.github.io)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [hmzeahmd.github.io](hmzeahmd.github.io)
+- 👨‍💻 All of my projects are available at [hmzeahmd](hmzeahmd.github.io)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **hmzeah@yahoo.com**
+- 📫 How to reach me [hmzeahmd.github.io](hmzeahmd.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **hmzeah@yahoo.com**
 <p align="left">
 </p>
 
