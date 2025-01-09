@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me [hmzeahmd.github.io](hmzeahmd.github.io)
+- 📫 How to reach me [hmzeahmd.github.io](hmzeahmd.github.io) **hmzeah@yahoo.com**
 
-<h3 align="left">Connect with me:</h3> **hmzeah@yahoo.com**
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 </p>
 
