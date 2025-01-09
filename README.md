@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzeahmd&label=Profile%20views&color=0e75b6&style=flat" alt="hmzeahmd" /> </p>
 
-- 🔭 I’m currently working on [hmzeahmd.github.io](hmzeahmd.github.io) 
+- 🔭 I’m currently working on [hmzeahmdpro Project](https://hmzeahmdpro.com)  
 
 - 🌱 I’m currently learning **React Native**
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hmzeah@yahoo.com**
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me:</h3> [hmzeahmd.github.io](hmzeahmd.github.io) 
 <p align="left">
 </p>
 
