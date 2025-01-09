@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [hmzeahmd](hmzeahmd.github.io) 
+- 👨‍💻 All of my projects are available at [hmzeahmd](https://github.com/hmzeahmd)  
 
 - 💬 Ask me about **React**
 
