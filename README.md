@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [hmzeahmd](https://github.com/hmzeahmd)  
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **React** **React**
 
 - 📫 How to reach me **hmzeah@yahoo.com**
 
