@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzeahmd&label=Profile%20views&color=0e75b6&style=flat" alt="hmzeahmd" /> </p>
 
-- 🔭 I’m currently working on [hmzeahmdpro Project](https://hmzeahmdpro.com)  
+- 🔭 I’m currently working on [My Own Website](https://hmzeahmdpro.com)  
 
 - 🌱 I’m currently learning **React Native**
 
