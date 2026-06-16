@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I%27m%20X%20MAN%F0%9F%8C%A9&animation=twinkling&fontSize=40)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320A121&lines=ABDIRIZAK+AKA+XMAN)
-### Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30">, I'm [ABDORIZAK](https://www.abdorizak.dev/) 🇸🇴
 
 <h1 align="center">Hi 👋, I'm hmzeahmd</h1>
 <h3 align="center">A passionate frontend developer from Countryside</h3>
